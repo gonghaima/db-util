@@ -1,0 +1,14 @@
+.idea
+.env
+**/.env
+**/env
+deploy.ssh
+**/deploy.ssh
+
+node_modules
+.DS_Store
+npm-debug.log
+**/package-lock.json
+**.log
+**temp-schemas/**
+**coverage/**

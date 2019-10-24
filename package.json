@@ -1,0 +1,19 @@
+{
+  "name": "db-util",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+  },
+  "main": "src/index.js",
+  "author": "",
+  "contributors": [],
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "mysql": "^2.15.0",
+    "pg": "^7.4.1"
+  },
+  "license": "ISC",
+  "devDependencies": {}
+}
